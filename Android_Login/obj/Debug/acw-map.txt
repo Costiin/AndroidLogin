@@ -1,0 +1,8 @@
+Android_Login.DialogSignUp, Android_Login;md5f233bf4acffeb8289ce79ed91f0a86ea.DialogSignUp
+Android_Login.DialogSignUp, Android_Login, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5f233bf4acffeb8289ce79ed91f0a86ea.DialogSignUp
+Android_Login.DialogSignUp;md5f233bf4acffeb8289ce79ed91f0a86ea.DialogSignUp
+android_login.DialogSignUp;md5f233bf4acffeb8289ce79ed91f0a86ea.DialogSignUp
+Android_Login.MainActivity, Android_Login;md5f233bf4acffeb8289ce79ed91f0a86ea.MainActivity
+Android_Login.MainActivity, Android_Login, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5f233bf4acffeb8289ce79ed91f0a86ea.MainActivity
+Android_Login.MainActivity;md5f233bf4acffeb8289ce79ed91f0a86ea.MainActivity
+android_login.MainActivity;md5f233bf4acffeb8289ce79ed91f0a86ea.MainActivity

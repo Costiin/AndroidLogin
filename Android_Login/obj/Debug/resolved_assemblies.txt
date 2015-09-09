@@ -1,0 +1,7 @@
+C:\Users\grale_000\Documents\Visual Studio 2013\Projects\Android_Login\Android_Login\obj\Debug\assemblies\Android_Login.dll
+C:\Users\grale_000\Documents\Visual Studio 2013\Projects\Android_Login\Android_Login\obj\Debug\assemblies\Mono.Android.dll
+C:\Users\grale_000\Documents\Visual Studio 2013\Projects\Android_Login\Android_Login\obj\Debug\assemblies\mscorlib.dll
+C:\Users\grale_000\Documents\Visual Studio 2013\Projects\Android_Login\Android_Login\obj\Debug\assemblies\System.Core.dll
+C:\Users\grale_000\Documents\Visual Studio 2013\Projects\Android_Login\Android_Login\obj\Debug\assemblies\System.dll
+C:\Users\grale_000\Documents\Visual Studio 2013\Projects\Android_Login\Android_Login\obj\Debug\assemblies\System.Xml.dll
+C:\Users\grale_000\Documents\Visual Studio 2013\Projects\Android_Login\Android_Login\obj\Debug\assemblies\System.Xml.Linq.dll
